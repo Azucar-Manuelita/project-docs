@@ -46,24 +46,24 @@ Debo mejorar el conocimiento acerca de los distintos lenguajes para en caso nece
 
 ### Expectativas
 
-- Que el equipo mantenga una comunicación clara, respetuosa y constante durante todo el proyecto.\
-- Que todos los integrantes participen activamente y cumplan con las tareas asignadas.\
-- Poder llevara acabo la metodología Kanban de la mejor manera durante el transcurso del proyecto.\
-- Que el repositorio de GitHub se mantenga ordenado, con commits claros y descriptivos.\
-- Que el producto final cumpla con los requisitos establecidos y tenga buena calidad tanto funcional como técnica.\
-- Que exista apoyo mutuo en caso de dificultades técnicas o limitaciones de tiempo.\
+- Que el equipo mantenga una comunicación clara, respetuosa y constante durante todo el proyecto.
+- Que todos los integrantes participen activamente y cumplan con las tareas asignadas.
+- Poder llevara acabo la metodología Kanban de la mejor manera durante el transcurso del proyecto.
+- Que el repositorio de GitHub se mantenga ordenado, con commits claros y descriptivos.
+- Que el producto final cumpla con los requisitos establecidos y tenga buena calidad tanto funcional como técnica.
+- Que exista apoyo mutuo en caso de dificultades técnicas o limitaciones de tiempo.
 
 ### Compromisos
 
-- Se decidió usar la metodología ágil Kanban, ya que nos brinda mayor flexibilidad en la gestión de tareas y facilita la adaptación a cambios durante el desarrollo del proyecto.\
-- Se realizará una reunión formal una vez por semana, preferiblemente los sábados, y se complementará con reuniones cortas los días de clase si es necesario.\
-- Reglas para el manejo de GitHub:\
-  - No trabajar directamente sobre la rama main.\
-  - Crear ramas independientes para cada funcionalidad o corrección.\
-  - Informar al equipo antes de realizar un push importante.\
-  - Realizar pull requests para revisión antes de fusionar cambios.\
-  - Escribir mensajes de commit claros y descriptivos.\
-- Si alguna tarea no puede completarse en la fecha estipulada, se deberá informar lo antes posible para recibir apoyo o reorganizar la planificación.\
-- En caso de no poder asistir a una reunión, el integrante deberá avisar con anticipación para buscar una solución alternativa.\
-- Las decisiones importantes del equipo se tomarán de manera democrática, permitiendo que todos los integrantes participen y voten.\
+- Se decidió usar la metodología ágil Kanban, ya que nos brinda mayor flexibilidad en la gestión de tareas y facilita la adaptación a cambios durante el desarrollo del proyecto.
+- Se realizará una reunión formal una vez por semana, preferiblemente los sábados, y se complementará con reuniones cortas los días de clase si es necesario.
+- Reglas para el manejo de GitHub:
+  - No trabajar directamente sobre la rama main.
+  - Crear ramas independientes para cada funcionalidad o corrección.
+  - Informar al equipo antes de realizar un push importante.
+  - Realizar pull requests para revisión antes de fusionar cambios.
+  - Escribir mensajes de commit claros y descriptivos.
+- Si alguna tarea no puede completarse en la fecha estipulada, se deberá informar lo antes posible para recibir apoyo o reorganizar la planificación.
+- En caso de no poder asistir a una reunión, el integrante deberá avisar con anticipación para buscar una solución alternativa.
+- Las decisiones importantes del equipo se tomarán de manera democrática, permitiendo que todos los integrantes participen y voten.
 - Cada integrante se compromete a cumplir con los tiempos establecidos y asumir responsabilidad sobre sus tareas asignadas.
