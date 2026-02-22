@@ -1,4 +1,12 @@
-### Nicolas Fuentes Ramos
+### Caucali Junco Nicolas
+
+**Rol a desempeñar :**  Me gustaría ser de aquellos quienes profundizan en la arquitectura y diseño del programa, desarrollar las soluciones a las neceidades que se presenten durante el proyecto.
+
+**Fortalezas :**  Mi creatividad e ingenio pueden ser utiles a la hora de tomar decisiones.
+
+**Aspectos a mejorar :**  Siento que tengo que aprender a cooperar y seguír una metodología concreta ya que suelo ser desordenado y a veces tiendo a procrastinar.
+
+### Fuentes Ramos Nicolas
 
 **Rol a desempeñar**
 Me gustaria desempeñar el rol del encargado de la parte de profundizacion y diseño del codigo para mantenerlo lo mas limpio y logico posible para su entendimiento posterior o en el enfoque de testeos y pruebas de calidad del mismo.
