@@ -1,0 +1,16 @@
+services:
+  db:
+    image: postgres:15
+    container_name: postgres_gym
+    environment:
+      POSTGRES_DB: gym_db          # Nombre de la base de datos
+      POSTGRES_USER: admin_gym     # Usuario
+      POSTGRES_PASSWORD: password  # Contraseña
+    ports:
+      - "5432:5432"                # Conecta el puerto de Docker con PC
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+
+volumes:
+  postgres_data:                   # Esto evita que los datos se borren al apagar el contenedor
